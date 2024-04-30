@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MDV2",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"GEEK-MDV1",
+  "description":"bot whatsapp développé by MR_LEGEEK",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "logo":"https://telegra.ph/file/2a5bfafad52a999184daf.jpg",
+  "repository":"https://github.com/GEEKMD099/GEEK-MD2.0",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑩𝑴𝑾  𝑴𝑫",
+      "value":"𝐆𝐄𝐄𝐊  𝑴𝑫",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+      "value":"https://telegra.ph/file/2a5bfafad52a999184daf.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "𝑴𝒓 LEGEEK"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "237698046545,237693755398"
   },
     "WARN_COUNT":
   {
