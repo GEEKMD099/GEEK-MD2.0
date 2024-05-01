@@ -93,7 +93,6 @@ Contributions to *GEEK-MD* are welcome! If you have ideas for new features, impr
 
 
 
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+Big thanks for Mr_legeek for hard work 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
